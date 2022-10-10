@@ -1,0 +1,350 @@
+@media (min-width: 1399px) {
+}
+@media (max-width: 1399px) {
+	
+}
+@media (max-width: 1399px) {
+}
+@media (max-width: 1199px) {
+	.cont-middle .who-pic::before {
+		display: none;
+	}
+	.cont-middle .who-pic::after {
+		display: none;
+	}
+	.side-l {
+    margin-bottom: 20px;
+}
+.sr_inner h3 {
+	font-size: 18px;
+}
+}
+@media (max-width: 991px) {
+	.logoportion img {
+		width: 170px;
+	}
+	.menuarea ul li {
+		padding: 0 10px;
+	}
+	.innerbanner h1 {
+		line-height: 42px;
+		font-size: 40px;
+	}
+	.owl-carousel h1 {
+		line-height: 42px;
+		font-size: 40px;
+	}
+	.innerbanner {
+    	margin-top: 98px;
+	}
+	.who {
+   	 padding: 40px 0;
+	}
+	.who h3 {
+		margin-top: 10px;
+	}
+	.what-we {
+		padding: 40px 0;
+	}
+	.what-we-cont {
+    	margin-top: 30px;
+	}
+	.side-text h3 {
+		font-size: 15px;
+	}
+	.side-l {
+		margin-bottom: 20px;
+	}
+	.side-text {
+		margin-left: 60px;
+	}
+	.side-r .side-l .side-text {
+		margin-right: 60px;
+	}
+	.howwedopart {
+		padding: 40px 0;
+	}
+	.pi_innosec p {
+		padding: 0;
+	}
+	.whitesection {
+    	padding: 40px 0;
+	}
+	.parallax-window {
+		min-height: 400px;
+	}
+	.solutions_section {
+		padding: 40px 0;
+	}
+	h2 {
+		font-size: 34px;
+	}
+	.solutiobn_image img {
+		max-width: 100%;
+	}
+	.service_cols {
+    display: inline-block;
+    margin: 0 15px 35px;
+    vertical-align: top;
+    width: 305px;
+	}
+	.es_work {
+		padding-top: 40px;
+	}
+	.titleCover {
+		margin-bottom: 30px;
+	}
+	.footer {
+		padding: 170px 0 30px;
+	}
+	.d8_text h2 {
+		padding-right: 0;
+		font-size: 36px;
+	}
+	.innerbanner {
+		height: 200px;
+	}
+	.sr_innosec p {
+		padding: 0;
+	}
+	.sr_innosec {
+		margin-top: 20px;
+		text-align: center;
+	}
+	.sr_innosec h3 {
+		padding-bottom: 6px;
+	}
+	.sr_inner h3 {
+		margin-bottom: 10px;
+		height: 40px;
+	}
+	.more_servicess {
+		padding: 40px 0;
+	}
+}
+@media (max-width: 767px) {
+.menuarea {
+    float: none;
+    padding: 0 5px;
+    position: absolute;
+	top: 67px;
+	background-color: #ffffff;
+	left: 0;
+	right: 0;
+	border-top: 1px solid #e4e4e4;
+	display: none;
+}
+.menuarea ul li {
+	float: none;
+	padding: 5px 10px;
+}
+.header {
+	padding: 15px 0;
+}
+.logoportion img {
+    width: 130px;
+}
+.innerbannertop {
+    	margin-top: 67px;
+	}
+	.socialright {
+		padding-top: 0;
+	}
+	.who-stat {
+		margin-top: 20px;
+	}
+	.who-text h4 {
+		margin-bottom: 5px;
+		margin-top: 8px;
+	}
+	.who-text {
+		margin-bottom: 25px;
+	}
+	h2 {
+    	font-size: 26px;
+	}
+	h3 {
+    color: #000000;
+    font-size: 20px;
+	}
+	p {
+		font-size: 13px;
+	}
+	.who {
+		padding: 20px 0;
+	}
+	.side-text {
+    	margin-left: 95px;
+		text-align: left;
+	}
+	.side-r .side-l .side-pic {
+		float: left;
+	}
+	.side-r .side-l .side-text {
+		margin-right: 0;
+		margin-left: 90px;
+		text-align: left;
+	}
+	.howwedopart {
+		background-size: cover;
+		padding: 20px 0;
+	}
+	.pi_innosec {
+   	 margin-top: 20px;
+	}
+	.whitesection {
+		padding: 20PX 0;
+	}
+	.whitesection h2 {
+		PADDING: 0 0 20px;
+	}
+	ul.pi_custom {
+		margin-top: 0;
+	}
+	ul.pi_custom li {
+		padding-bottom: 6px;
+		font-size: 14px;
+	}
+	.pi_bottext {
+		color: #000;
+		font-size: 20px;
+		padding-top: 10px;
+	}
+	.float_panel {
+		padding: 0;
+	}
+	.d8_list {
+		padding: 0;
+	}
+	.d8_text h2 {
+		font-size: 22px;
+		padding-right: 0;
+		line-height: 22px;
+	}
+	.d8_logo > img {
+    	width: 70px;
+	}
+	.d8_logosection {
+		padding-left: 85px;
+	}
+	.d8_list li {
+		position: relative;
+		padding-left: 40px;
+	}
+	.nomber_cell {
+		position: absolute;
+		float: none;
+		left: 0;
+	}
+	.parallax-window {
+		min-height: 520px;
+	}
+	.service_text {
+    	margin-bottom: 20px;
+	}
+	.service_cols {
+		margin: 0;
+		width: auto;
+	}
+	.cell_servicecont a {
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	.titleCover {
+    	margin-bottom: 15px;
+	}
+	.lead {
+		font-size: 16px;
+	}
+	.lacation {
+		margin-bottom: 10px;
+	}
+	.inputWrap {
+		margin-bottom: 0;
+	}
+	.inputWrap .form-control {
+		margin-bottom: 10px;
+		height: 40px;
+	}
+	.working-man img {
+		width: 300px;
+	}
+	.working-man {
+		margin-bottom: -78px;
+	}
+	.footer {
+    padding: 80px 0 20px;
+	}
+	.es_work {
+    padding-top: 20px;
+}
+.newsleterSubcribe {
+	margin-bottom: 20px;
+}
+.contactForm .btn {
+	padding: 5px 0;
+}
+.sr_leftblog {
+	float: none;
+	width: 100%;
+}
+.sr_rightblog {
+	float: none;
+	width: 100%;
+}
+.sr_rightblog h3, .sr_leftblog h3 {
+	margin-top: 20px;
+	font-size: 18px;
+    margin-bottom: 8px;
+}
+.sr_inner {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.sr_inner:after {
+	display: none;
+}
+.sr_inner:before {
+	display: none;
+}
+.innerbanner {
+    height: 125px;
+}
+.sr_leftblog > img {
+	max-width: 100%;
+}
+.sr_rightblog > img {
+	max-width: 100%;
+}
+.more_servicess {
+		padding: 20px 0;
+	}
+	.more_servicess p {
+		margin-bottom: 20px;
+	}
+}
+@media (max-width: 639px) {
+	.innerbanner h1 {
+    font-size: 20px;
+    line-height: 22px;
+	}
+	.owl-carousel h1 {
+		font-size: 20px;
+    line-height: 22px;
+	}
+	.owl-controls {
+    	bottom: 7px;
+	}
+}
+@media (max-width: 480px) {
+
+	
+	
+}
+@media (min-width: 540px) and (max-width: 767px) {	
+	
+}
+@media (max-width: 479px) {
+
+	
+}
